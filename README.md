@@ -10,7 +10,7 @@ My main languages are Python, R, Java and C++. I use Numpy, Pandas, Matplotlib, 
 
 #### Fun Facts:
 
-* Webnovel enthusiast (Shadow Slave is the goat, idgaf)
+* Webnovel enthusiast ([objectively](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fqxs8zut050c61.jpg&f=1&nofb=1&ipt=3e1916326ff900808c5b8df7c1bdb73686fb7a695d3a46294b5445eca225abd0), SS is the goat, ORV and LOTM are a close second, that's not up for debate)
 * Look like a BEAST
 * Use Neovim
 * Big fan of [SCP-999](https://scp-db.fandom.com/wiki/SCP-999)

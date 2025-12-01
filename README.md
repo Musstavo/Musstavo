@@ -13,6 +13,7 @@ My main languages are Python, R, Java and C++. I use Numpy, Pandas, Matplotlib, 
 * Webnovel enthusiast (Shadow Slave is the goat, idgaf)
 * Look like a BEAST
 * Use Neovim
+* Big fan of SCP-999
 * **Hobbies:** making you smile ;)
 
 

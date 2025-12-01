@@ -6,7 +6,7 @@ If Mathemtics was a person, I would absolutely ask for their hand.
 
 Statistics is REAL math, hmu if you think otherwise. (don't please)
 
-My main languages are Python, R, Java and C++.
+My main languages are Python, R, Java and C++. I use Numpy, Pandas, Matplotlib, Scikit-Learn and PyTorch.
 
 #### Fun Facts:
 

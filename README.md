@@ -13,6 +13,6 @@ Statistics is REAL math, [send me location](https://i.kym-cdn.com/entries/icons/
 * Look like a BEAST
 * Use Neovim
 * Big fan of SCP-999
-* **Hobbies:** making you smile ;)
+* **Hobbies:** maladaptive daydreaming 
 
 

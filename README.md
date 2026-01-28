@@ -2,7 +2,7 @@
 
 I'm [**Tantour**](example.com), an AI & Data Science student based in Jordan.
 
-Languages: Python, Java. (Familiar with C++, JS, TS)
+Languages: Python, C++, Java. (Familiar with JS, TS)
 
 Skills: NumPy, Pandas, Matplotlib, scikit-learn, PyTorch, OpenCV, Java Swing 
 

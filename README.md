@@ -1,4 +1,4 @@
-### Sup homie! 🫡
+### Sup! 🫡
 
 I'm [**Tantour**](example.com), an AI & Data Science student based in Jordan.
 
@@ -6,7 +6,7 @@ Languages: Python, C++, Java. (Familiar with JS, TS)
 
 Skills: NumPy, Pandas, Matplotlib, scikit-learn, PyTorch, OpenCV, Java Swing 
 
-The absolute goat of medical imaging.
+Working on becoming the absolute goat of medical imaging.
 
 #### Fun Facts:
 

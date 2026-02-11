@@ -23,7 +23,7 @@ I build production-ready AI pipelines, from training 3D ResUNets for tumor segme
 
 #### 🏥 [Hospital Readmission Prediction](https://github.com/Musstavo/diabetes-readmission-prediction)
 * **Tech:** Scikit-Learn, Pandas, Seaborn, SMOTE
-* **Description:** Developed a classification model (Random Forest) to predict diabetic patient readmission. Utilized **SMOTE** to handle class imbalance, achieving an **ROC-AUC of 0.76**.
+* **Description:** Developed a classification model (Random Forest) to predict diabetic patient readmission. Utilized **SMOTE** to handle class imbalance, achieving an **ROC-AUC of 0.64** (Bayes Error Rate).
 
 #### 📅 [Event Registration System](https://github.com/Musstavo/event-registration-system)
 * **Tech:** Java, Swing, OOP, File I/O

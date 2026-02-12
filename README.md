@@ -18,8 +18,8 @@ I build production-ready AI pipelines, from training 3D ResUNets for tumor segme
 ### 🚀 Featured Projects
 
 #### 🧠 [Liver Tumor Segmentation System](https://github.com/Musstavo/liver-tumor-segmentation)
-* **Tech:** Python, PyTorch, MONAI, FastAPI, Docker
-* **Description:** Engineered a 3D ResUNet to segment liver tumors from CT scans (NIfTI), achieving a **0.78 Dice Score**. Built a full-stack inference engine with a Streamlit frontend and PostgreSQL backend.
+* **Tech:** Python, PyTorch, MONAI, FastAPI, Docker, PostgresSQL
+* **Description:** Engineered a 3D ResUNet to segment liver tumors from CT scans (NIfTI), achieving a **0.88 Dice Score**. Built a full-stack inference engine with a Streamlit frontend and PostgreSQL backend.
 
 #### 🏥 [Hospital Readmission Prediction](https://github.com/Musstavo/diabetes-readmission-prediction)
 * **Tech:** Scikit-Learn, Pandas, Seaborn, SMOTE

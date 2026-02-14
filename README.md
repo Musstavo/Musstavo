@@ -16,26 +16,10 @@ features, patient data, and clinical factors.
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🧠 [Liver Tumor Segmentation System](https://github.com/Musstavo/liver-tumor-segmentation)
-* **Tech:** Python, PyTorch, MONAI, FastAPI, Docker, PostgresSQL, Streamlit, 3D Slicer
-* **Description:** Engineered a 3D ResUNet to segment liver tumors from CT scans (NIfTI), achieving a **0.88 Dice Score**. Built a full-stack inference engine with a Streamlit frontend and PostgreSQL backend.
-
-#### 🏥 [Hospital Readmission Prediction](https://github.com/Musstavo/diabetes-readmission-prediction)
-* **Tech:** Scikit-Learn, Pandas, Seaborn, SMOTE
-* **Description:** Developed a classification model (Random Forest) to predict diabetic patient readmission. Utilized **SMOTE** to handle class imbalance, achieving an **ROC-AUC of 0.64** (Bayes Error Rate).
-
-#### 📅 [Event Registration System](https://github.com/Musstavo/event-registration-system)
-* **Tech:** Java, Swing, OOP, File I/O
-* **Description:** A robust desktop application for event management featuring a layered architecture, role-based access control, and custom data persistence.
-
----
-
 ### ⚡ Fun Facts
 * **Reading:** Huge fan of web nobvels (SS, ORV & LOTM).
-* **Workflow:** I customize my dev environment obsessively (Neovim + Tmux).
-* **Learning:** Currently diving deep into C++ for competitive programming (ICPC ambitions in the next 4 years).
+* **Workflow:** I customize my dev environment obsessively (Neovim + Tmux) + Linux ricing.
+* **Maladaptive Daydreaming>>>**.
 
 ---
 

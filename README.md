@@ -19,7 +19,7 @@ features, patient data, and clinical factors.
 ### ⚡ Fun Facts
 * **Reading:** Huge fan of web nobvels (SS, ORV & LOTM).
 * **Workflow:** I customize my dev environment obsessively (Neovim + Tmux) + Linux ricing.
-* **Maladaptive Daydreaming>>>**.
+* **Maladaptive Daydreaming>>>>>>>**.
 
 ---
 

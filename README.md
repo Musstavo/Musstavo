@@ -17,7 +17,7 @@ features, patient data, and clinical factors.
 ---
 
 ### ⚡ Fun Facts
-* **Reading:** Huge fan of web nobvels (SS, ORV & LOTM).
+* **Reading:** Huge fan of web novels (SS, ORV & LOTM).
 * **Workflow:** I customize my dev environment obsessively (Neovim + Tmux) + Linux ricing.
 * **Hobby:** Maladaptive Daydreaming.
 

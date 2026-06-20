@@ -2,24 +2,26 @@
 
 I'm an **AI & Data Science Undergrad** at Al Hussein Technical University (HTU), specializing in **Medical Computer Vision** and **Predictive Analytics**.
 
-My **ultimate long-term goal** is to build a model that estimates **AVM rupture risk** based on imaging
-features, patient data, and clinical factors. 
+My **ultimate long-term goal** is to build a model that estimates **AVM rupture risk** based on imaging features, patient data, and clinical factors.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** Python (Advanced), Java, C++, SQL, Bash
+* **Languages:** Python, Java, C++, SQL, Bash
 * **AI/ML:** PyTorch, MONAI, Scikit-Learn, Pandas, NumPy, OpenCV
 * **DevOps & Backend:** Docker, FastAPI, PostgreSQL, Git, GitHub Actions
-* **Editor:** Neovim (I use Arch/Ubuntu btw)
+* **Automation & Scraping:** Playwright, Beautiful Soup, n8n
+* **Editor & OS:** Neovim + Kitty terminal. Powered by CachyOS + i3WM
 
 ---
 
 ### ⚡ Fun Facts
+
 * **Reading:** Huge fan of web novels (SS, ORV & LOTM).
-* **Workflow:** I customize my dev environment obsessively (Neovim + Tmux) + Linux ricing.
+* **Workflow:** I customize my dev environment obsessively (LazyVim + Tmux + Kitty) and rice my i3 setup to optimize RAM usage.
 * **Hobby:** Maladaptive Daydreaming.
+* **Gaming:** Pushing the limits of Proton for linux gaming.
 
 ---
 

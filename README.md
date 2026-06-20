@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Tantour! 👋
+# Hi there, I'm Mohammad Tantour ^^
 
 I'm an **AI & Data Science Undergrad** at Al Hussein Technical University (HTU), specializing in **Medical Computer Vision** and **Predictive Analytics**.
 
@@ -6,7 +6,7 @@ My **ultimate long-term goal** is to build a model that estimates **AVM rupture 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 * **Languages:** Python, Java, C++, SQL, Bash
 * **AI/ML:** PyTorch, MONAI, Scikit-Learn, Pandas, NumPy, OpenCV
@@ -16,7 +16,7 @@ My **ultimate long-term goal** is to build a model that estimates **AVM rupture 
 
 ---
 
-### ⚡ Fun Facts
+### Fun Facts
 
 * **Reading:** Huge fan of web novels (SS, ORV & LOTM).
 * **Workflow:** I customize my dev environment obsessively (LazyVim + Tmux + Kitty) and rice my i3 setup to optimize RAM usage.

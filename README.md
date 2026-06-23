@@ -12,14 +12,14 @@ My **ultimate long-term goal** is to build a model that estimates **AVM rupture 
 * **AI/ML:** PyTorch, MONAI, Scikit-Learn, Pandas, NumPy, OpenCV
 * **DevOps & Backend:** Docker, FastAPI, PostgreSQL, Git, GitHub Actions
 * **Automation & Scraping:** Playwright, Beautiful Soup, n8n
-* **Editor & OS:** Neovim + Kitty terminal. Powered by CachyOS + i3WM
+* **Editor & OS:** Neovim + Kitty terminal. Powered by CachyOS + i3/Niri
 
 ---
 
 ### Fun Facts
 
 * **Reading:** Huge fan of web novels (SS, ORV & LOTM).
-* **Workflow:** I customize my dev environment obsessively (LazyVim + Tmux + Kitty) and rice my i3/Niri setup.
+* **Workflow:** I customize my dev environment obsessively (LazyVim + Tmux + Kitty) and rice my Niri setup.
 * **Hobby:** Maladaptive Daydreaming (just kidding.. or am I?).
 * **Gaming:** CS2, Poe2, TF2, and other chill single player games.
 

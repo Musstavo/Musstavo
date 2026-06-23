@@ -19,7 +19,7 @@ My **ultimate long-term goal** is to build a model that estimates **AVM rupture 
 ### Fun Facts
 
 * **Reading:** Huge fan of web novels (SS, ORV & LOTM).
-* **Workflow:** I customize my dev environment obsessively (LazyVim + Tmux + Kitty) and rice my i3 setup to optimize RAM usage.
+* **Workflow:** I customize my dev environment obsessively (LazyVim + Tmux + Kitty) and rice my i3/Niri setup to optimize RAM usage.
 * **Hobby:** Maladaptive Daydreaming.
 * **Gaming:** Pushing the limits of Proton for linux gaming.
 

@@ -2,8 +2,6 @@
 
 I'm an **AI & Data Science Undergrad** at Al Hussein Technical University (HTU), specializing in **Medical Computer Vision** and **Predictive Analytics**.
 
-My **ultimate long-term goal** is to build a model that estimates **AVM rupture risk** based on imaging features, patient data, and clinical factors.
-
 ---
 
 ### Tech Stack & Tools

@@ -10,7 +10,7 @@ I'm an **Data Science & AI Undergrad** at Al Hussein Technical University (HTU),
 * **AI/ML:** PyTorch, MONAI, Scikit-Learn, Pandas, NumPy, OpenCV
 * **DevOps & Backend:** Docker, FastAPI, PostgreSQL, Git, GitHub Actions
 * **Automation & Scraping:** Playwright, Beautiful Soup, n8n
-* **Editor & OS:** Neovim + Kitty terminal. Powered by CachyOS + i3/Niri
+* **Editor & OS:** Neovim + Kitty terminal. Powered by CachyOS + Niri
 
 ---
 

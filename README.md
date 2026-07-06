@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad Tantour ^^
 
-I'm an **AI & Data Science Undergrad** at Al Hussein Technical University (HTU), specializing in **Medical Computer Vision** and **Predictive Analytics**.
+I'm an **Data Science & AI Undergrad** at Al Hussein Technical University (HTU), specializing in **Medical Computer Vision** and **Predictive Analytics**.
 
 ---
 

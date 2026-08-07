@@ -19,7 +19,7 @@ I'm an **Data Science & AI Undergrad** at Al Hussein Technical University (HTU),
 * **Reading:** Huge fan of web novels (SS, ORV & LOTM).
 * **Workflow:** I customize my dev environment obsessively (LazyVim + Tmux + Kitty) and rice my Niri setup.
 * **Hobby:** Maladaptive Daydreaming (just kidding.. or am I?).
-* **Gaming:** CS2, Poe2, TF2, and other chill single player games.
+* **Gaming:** CS2, Poe2, TF2, and chill single player games.
 
 ---
 

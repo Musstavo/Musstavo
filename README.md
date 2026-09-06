@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Tantour ^^
+# Hi there, I'm Mohammad Tantour
 
 I'm a **Data Science & AI undergrad** at Al Hussein Technical University (HTU), working mostly on **medical computer vision** and **predictive modelling on biological data**.
 

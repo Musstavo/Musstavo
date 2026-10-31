@@ -2,7 +2,6 @@
 
 I'm a **Data Science & AI undergrad** at Al Hussein Technical University (HTU), working mostly on **medical computer vision** and **predictive modelling on biological data**.
 
-Most of what I build lives between a research question and a thing you can actually run.
 
 ---
 

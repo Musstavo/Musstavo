@@ -6,18 +6,28 @@ Most of what I build lives between a research question and a thing you can actua
 
 ---
 
-### What I'm working on
+### Research
 
-* **COMPASS** — co-authoring a paper predicting checkpoint-inhibitor response from pre-treatment tumor transcriptomics. Currently rebuilding the evaluation around leave-one-cohort-out validation across three public cohorts.
-* **Simera** — AI Automation & Data Enrichment intern. Scrapers, multi-stage n8n workflows, and API pipelines that replace manual lookup.
+* **When Attribution Deceives** (first author, Synthica Research Group): predicting immunotherapy response in bladder cancer from tumor gene expression. Tested 7 models across 3 cohorts (386 patients) with leave-one-cohort-out validation, and found that most SHAP explanations flip direction between cohorts. Manuscript complete, available on request.
+
+### Projects
+
+* **Liver Tumor Segmentation:** 3D CT segmentation on LiTS (0.88 Dice) with PyTorch + MONAI, wrapped in a FastAPI/Docker app with a 3D viewer.
+* **Retinal Vessel Segmentation:** Attention U-Net with clDice loss and wavelet features, CNNs vs ViTs, trained on a 4 GB GPU.
+* **Hospital Readmission Prediction:** 30-day readmission for diabetic patients, handling class imbalance with SMOTE.
+
+### Currently
+
+* **GDG on Campus HTU:** AI technical team. Building camera-based games for uni events and running AI workshops.
+* Previously **AI Automation & Data Enrichment intern at Simera**: scrapers, n8n workflows, and API pipelines that replaced manual lookup.
 
 ---
 
 ### Tech Stack & Tools
 
 * **Languages:** Python, Java, C++, SQL, Bash
-* **AI/ML:** PyTorch, MONAI, Scikit-Learn, SHAP, Pandas, NumPy, OpenCV
-* **DevOps & Backend:** Docker, FastAPI, PostgreSQL, Git, GitHub Actions
+* **AI/ML:** PyTorch, MONAI, Scikit-Learn, XGBoost, LightGBM, SHAP, gseapy, Pandas, NumPy, OpenCV
+* **DevOps & Backend:** Docker, FastAPI, PostgreSQL, Streamlit, Git, GitHub Actions
 * **Automation & Scraping:** Playwright, Beautiful Soup, Apify, n8n
 * **Editor & OS:** Neovim + Kitty terminal. Powered by CachyOS + Niri
 
@@ -28,7 +38,7 @@ Most of what I build lives between a research question and a thing you can actua
 * **Reading:** Huge fan of web novels (SS, ORV & LOTM).
 * **Workflow:** I customize my dev environment obsessively (LazyVim + Tmux + Kitty) and rice my Niri setup.
 * **Hobby:** Maladaptive daydreaming (just kidding.. or am I?).
-* **Gaming:** CS2, PoE2, TF2, and chill single-player games.
+* **Gaming:** Deadlock, CS2, PoE2, and chill single-player games.
 
 ---
 
